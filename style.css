@@ -1,0 +1,81 @@
+body {
+  margin: 20px;
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+   font-weight:500;
+  margin:10px;
+}
+.logo
+{
+  width :100px;
+}
+a
+{
+ color:black;
+ cursor:pointer;
+text-decoration: none;
+  margin:50px;
+}
+a:hover
+{
+ text-decoration: underline;
+background-color:orange;
+}
+
+#aa
+{
+  color:orange;
+}
+
+.test
+{
+
+  background-color:orange;
+  font-size:13px;
+  padding:10px;   
+  border: 3px solid white ;
+  border-radius:10px;
+  font-weight:700;
+  cursor:pointer;
+  opacity: 1;
+
+}
+.test:hover
+{
+  background-color:orange;
+  opacity: 0.6;
+}
+.special
+{
+  font-size:20px;
+  font-weight:800;
+
+}
+.special_
+{
+   font-size:30px;
+  font-weight:900;
+}
+._session
+{
+font-size:13px;
+color:gray;
+font-weight:700;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+
+}
+table, td, th {
+  border: 1px solid;
+  margin:40px;
+  opacity: 1;
+}
+table td, th:hover
+{
+  background-color:orange;
+  opacity: 0.6;
+}  
